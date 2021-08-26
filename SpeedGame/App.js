@@ -9,7 +9,7 @@ import {
   View,
   Button,
 } from 'react-native';
-import Realm from "realm";
+import Realm from "react-native-realm";
 import { Header, Body, Title, Left, Right, Icon } from 'native-base';
 import Dialog from "react-native-dialog";
 
